@@ -1,0 +1,27 @@
+{
+    "alert":"Alert",
+    "youDataIsWrong":"youDataIsWrong",
+    "youHaveOnly":"youHaveOnly",
+    "attempts":"attempts",
+    "Controlemil":"oops,your data is wrong ,You have only temps for ",
+    "failureNumber":"failureNumber",
+    "sorryyoucantloginanymore":"sorry you cant login any more",
+    "login" : "Login",
+    "enterYourData" :"Enter Your Data",
+    "email": "Email",
+    "enteremail":"Enter Email ",
+    "enterpassword":"Enter Password",
+    "passward":"Password",
+    "welcome" : "Welcome to control gate !",
+    "Control":"Control",
+    "ControlGateAbuGhalib":"Control Gate_Abu_Ghalib",
+    "GateOpen":"Gate Open",
+    "GateClosed":"Gate Closed"
+  
+
+
+    
+
+
+
+}
